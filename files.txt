@@ -1,0 +1,2 @@
+server src/text_modify_server.c include/text_modify_server.h src/character_modifications.c include/character_modifications.h
+client src/file_reader_client.c src/open.c include/file_reader_client.h include/open.h
